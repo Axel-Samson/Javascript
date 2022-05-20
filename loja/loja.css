@@ -1,0 +1,45 @@
+/*tags*/
+h1 {
+    font-weight: 400;
+    text-align: center;
+    background-color: rgba(255, 167, 119, 0.747);
+    font-family: fantasy;
+    shape-rendering: geometricPrecision;
+}
+
+/*# seleciona IDs*/
+#login {
+    background-color: gold;
+    color: gray;
+    align-items: center;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+
+#registre {
+    background-color: goldenrod;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+/* . seleciona classes */
+.copy {
+    font-size: 12px;
+    text-align: center;
+}
+
+#silverKnight {
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: justify;
+
+}
+
+p {
+    display: flex;
+}
+
+.container {
+    text-align: center;
+}
